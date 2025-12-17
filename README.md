@@ -6,7 +6,7 @@
 
 
 ## Hi 👋, I'm Faiza Noushin Priya  
----
+
 
 ## 👨‍💻 About Me  
 I'm a Computer Science undergraduate with a strong interest in software engineering and problem-solving. I enjoy building modern, high-performance web applications. I love working with **JavaScript**, **Python**, **React**, and **Django Rest Framework**, and I'm always exploring new tools to improve my workflow. 
