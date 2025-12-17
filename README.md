@@ -18,14 +18,16 @@ I'm a Computer Science undergraduate with a strong interest in software engineer
 ## 🛠️ Tech Stack  
 
 ### **Languages**
-[![Languages](https://skillicons.dev/icons?i=c,cpp,py,javascript,html,css)](https://github.com/Faizaa01)
+[![Languages](https://skillicons.dev/icons?i=c,cpp,py,javascript)](https://github.com/Faizaa01)
 
 ### **Frontend**
 [![Frontend](https://skillicons.dev/icons?i=react,tailwind,bootstrap,html,css)](https://github.com/Faizaa01)
 
 ### **Backend**
-[![Backend](https://skillicons.dev/icons?i=django,postgres,mysql)](https://github.com/Faizaa01)
+[![Backend](https://skillicons.dev/icons?i=django,postgres,mysql,supabase)](https://github.com/Faizaa01)
 
+### Deployment Platform:
+[![Deployment Platform](https://skillicons.dev/icons?i=vercel,netlify)](https://github.com/touhidcodes)
 
 ### **Tools & Others**
 [![Tools](https://skillicons.dev/icons?i=vscode,git,github,notion)](https://github.com/Faizaa01)
@@ -33,9 +35,9 @@ I'm a Computer Science undergraduate with a strong interest in software engineer
 ---
 
 ## ⚡ Competitive Programming
-[Codeforces](https://codeforces.com/profile/Faiza_niha)
-[Leetcode](https://leetcode.com/u/pp181nfJE2)
-[Codechef](https://www.codechef.com/users/faizaniha_00)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?logo=leetcode&logoColor=000)](https://leetcode.com/u/pp181nfJE2)
+[![Codeforces](https://img.shields.io/badge/-Codeforces-1F8ACB?logo=codeforces&logoColor=FFF)](https://codeforces.com/profile/Faiza_niha)
+[![CodeChef](https://img.shields.io/badge/-CodeChef-5B4638?logo=codechef&logoColor=white)](https://www.codechef.com/users/faizaniha_00)
 
 ---
 
