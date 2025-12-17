@@ -6,11 +6,10 @@ I'm a Computer Science undergraduate with a strong interest in software engineer
 
 ---
 
-**
-- 🖥️ I’m currently working on *React.js, Tailwind, Javascript* for frontend development and using *Django, DRF, Python and PostgreSQL* for the backend.
-- 🌱 I’m currently learning *AI/ML.*
-- 💬 Ask me about Full-Stack *(React, Django Rest Framework, PostgreSQL).*
-- 🌐 Explore My *[Portfolio](https://portfolio-coral-chi-11.vercel.app)** and My **[Resume](https://docs.google.com/document/d/1QtbTVlLhCQPbpOibJPQKEf6InX46Df8Zdw2STgUovrI/edit?tab=t.0)*
+- 🖥️ I’m currently working on **React.js, Tailwind, Javascript** for frontend development and using **Django, DRF, Python and PostgreSQL** for the backend.
+- 🌱 I’m currently learning **AI/ML.**
+- 💬 Ask me about Full-Stack **(React, Django Rest Framework, PostgreSQL).**
+- 🌐 Explore My *[Portfolio](https://portfolio-coral-chi-11.vercel.app)* and My *[Resume](https://docs.google.com/document/d/1QtbTVlLhCQPbpOibJPQKEf6InX46Df8Zdw2STgUovrI/edit?tab=t.0)*
 - 📝 I regularly write articles on *[LinkedIn](https://www.linkedin.com/in/faiza-niha-3a992639a)*
 - 📫 Feel free to reach me out *[Email](xxahin08@gmail.com)*
 
@@ -25,16 +24,18 @@ I'm a Computer Science undergraduate with a strong interest in software engineer
 [![Frontend](https://skillicons.dev/icons?i=react,tailwind,bootstrap,html,css)](https://github.com/Faizaa01)
 
 ### **Backend**
-[![Backend](https://skillicons.dev/icons?i=django,django,postgres,mysql)](https://github.com/Faizaa01)
+[![Backend](https://skillicons.dev/icons?i=django,postgres,mysql)](https://github.com/Faizaa01)
 
-
-### **Competitive Programming**
-[![Codeforces](https://skillicons.dev/icons?i=codeforces)](https://codeforces.com/profile/Faiza_niha)
-[![Leetcode](https://skillicons.dev/icons?i=leetcode)](https://leetcode.com/u/pp181nfJE2)
-[![Codechef](https://skillicons.dev/icons?i=codechef)](https://www.codechef.com/users/faizaniha_00)
 
 ### **Tools & Others**
 [![Tools](https://skillicons.dev/icons?i=vscode,git,github,notion)](https://github.com/Faizaa01)
+
+---
+
+## ⚡ Competitive Programming
+[Codeforces](https://codeforces.com/profile/Faiza_niha)
+[Leetcode](https://leetcode.com/u/pp181nfJE2)
+[Codechef](https://www.codechef.com/users/faizaniha_00)
 
 ---
 
