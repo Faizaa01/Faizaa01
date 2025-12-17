@@ -1,3 +1,10 @@
+<!--- banner --->
+<img src="./Images/banner.png" alt="Hello world">
+
+<br/>
+
+
+
 ## Hi 👋, I'm Faiza Noushin Priya  
 ---
 
@@ -40,6 +47,16 @@ I'm a Computer Science undergraduate with a strong interest in software engineer
 [![CodeChef](https://img.shields.io/badge/-CodeChef-5B4638?logo=codechef&logoColor=white)](https://www.codechef.com/users/faizaniha_00)
 
 ---
+
+
+### GitHub Statistics
+
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=Faizaa01&theme=github_dark&hide_border=true" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faizaa01&theme=github_dark&hide_border=true&layout=compact" /> |
+| ------------- | ------------- |
+
+
+<br/>
+
 
 ## 🌐 Connect With Me  
 
