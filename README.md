@@ -1,5 +1,5 @@
 <!--- banner --->
-<img src="./Images/banner.png" alt="Hello world">
+<img src="./Images/banner1.png" alt="Hello world">
 
 <br/>
 
