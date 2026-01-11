@@ -49,14 +49,12 @@ I'm a Computer Science undergraduate with a strong interest in software engineer
 ---
 
 
-## GitHub Statistics
+<!--
+### GitHub Statistics
 
-| GitHub Stats | Top Languages |
-| --- | --- |
-| ![Faiza's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Faizaa01&theme=github_dark&hide_border=true&count_private=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Faizaa01&theme=github_dark&hide_border=true&layout=compact) |
-
----
-
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=Faizaa01&theme=github_dark&hide_border=true" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faizaa01&theme=github_dark&hide_border=true&layout=compact" /> |
+| ------------- | ------------- |
+-->
 
 <br/>
 
